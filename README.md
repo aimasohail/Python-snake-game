@@ -16,9 +16,13 @@ This project was created as a hands-on learning experience to explore Python pro
 2.Clone or download this repository.
 3.Open the project folder.
 4.Run the following command in your terminal:
+
 <img width="204" height="52" alt="image" src="https://github.com/user-attachments/assets/7dda7713-33d7-4531-834b-3e84ce3de185" />
+
 📸 Gameplay
-<img width="827" height="837" alt="image" src="https://github.com/user-attachments/assets/db88fce4-71cb-470a-ab0e-d08439fc19e3" />
+
+<img width="778" height="837" alt="image" src="https://github.com/user-attachments/assets/52f3eed6-cb0d-4ecf-890f-909a72e7d0fa" />
+
 📚 What I Learned
 Through this project, I practised:
 Creating classes and objects
