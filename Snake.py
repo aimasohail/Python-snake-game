@@ -13,7 +13,7 @@ class Tile:
 root=tkinter.Tk()
 root.title("Snake Game")
 root.resizable(False, False)
-canvas=tkinter.Canvas(root, width=WINDOW_WIDTH, height=WINDOW_HEIGHT, bg="black")
+canvas=tkinter.Canvas(root, width=WINDOW_WIDTH, height=WINDOW_HEIGHT, bg="black",borderwidth=0, highlightthickness=0)
 canvas.pack()
 root.update()
 
